@@ -1,4 +1,4 @@
-onst int relayPin = 3; // Output pin for controlling the relay
+const int relayPin = 3; // Output pin for controlling the relay
 const int sensorPin = 6; // Input pin from the soil moisture sensor
 const unsigned long debounceDelay = 400; // Delay to debounce sensor readings
 
